@@ -16,7 +16,7 @@
 💻 Passionate about **Software Development, Java, Backend Development, and Full Stack Web Development**
 
 🌱 Currently learning:
-- Spring Boot
+- Backend Development
 - System Design
 - Data Structures & Algorithms
 - AI-powered Web Applications
