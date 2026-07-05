@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Janhvi Awasthi</h1>
 <h3 align="center">Aspiring Software Engineer | Full Stack Developer | Java • React • Firebase • DSA Enthusiast</h3>
